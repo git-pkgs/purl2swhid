@@ -5,7 +5,7 @@ go 1.27.3
 require (
 	github.com/andrew/swh-go v0.1.0
 	github.com/andrew/swhid-go v0.1.1
-	github.com/git-pkgs/archives v0.10.0
+	github.com/git-pkgs/archives v0.10.1
 	github.com/git-pkgs/purl v0.1.24
 	github.com/git-pkgs/registries v0.11.1
 	github.com/spf13/cobra v1.10.2
@@ -22,7 +22,7 @@ require (
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/facebookgo/clock v0.0.0-20150410010913-600d898af40a // indirect
 	github.com/git-pkgs/artifacts v0.2.1 // indirect
-	github.com/git-pkgs/magic v0.5.0 // indirect
+	github.com/git-pkgs/magic v0.6.0 // indirect
 	github.com/git-pkgs/pom v0.1.8 // indirect
 	github.com/git-pkgs/spdx v0.3.3 // indirect
 	github.com/git-pkgs/vers v0.7.2 // indirect
@@ -35,7 +35,7 @@ require (
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/kevinburke/ssh_config v1.6.0 // indirect
-	github.com/klauspost/compress v1.20.1 // indirect
+	github.com/klauspost/compress v1.20.3 // indirect
 	github.com/oapi-codegen/runtime v1.7.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/package-url/packageurl-go v0.1.7 // indirect
