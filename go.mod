@@ -6,7 +6,7 @@ require (
 	github.com/andrew/swh-go v0.1.0
 	github.com/andrew/swhid-go v0.1.1
 	github.com/git-pkgs/archives v0.10.0
-	github.com/git-pkgs/purl v0.1.24
+	github.com/git-pkgs/purl v0.2.1
 	github.com/git-pkgs/registries v0.11.1
 	github.com/spf13/cobra v1.10.2
 )
