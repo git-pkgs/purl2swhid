@@ -6,8 +6,8 @@ require (
 	github.com/andrew/swh-go v0.1.0
 	github.com/andrew/swhid-go v0.1.1
 	github.com/git-pkgs/archives v0.10.0
-	github.com/git-pkgs/purl v0.1.24
-	github.com/git-pkgs/registries v0.11.1
+	github.com/git-pkgs/purl v0.2.1
+	github.com/git-pkgs/registries v0.13.2
 	github.com/spf13/cobra v1.10.2
 )
 
@@ -47,7 +47,7 @@ require (
 	github.com/spf13/pflag v1.0.9 // indirect
 	github.com/ulikunitz/xz v0.5.17 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
-	go.yaml.in/yaml/v3 v3.0.5 // indirect
+	go.yaml.in/yaml/v3 v3.0.6 // indirect
 	golang.org/x/crypto v0.58.0 // indirect
 	golang.org/x/net v0.61.0 // indirect
 	golang.org/x/sync v0.23.0 // indirect
