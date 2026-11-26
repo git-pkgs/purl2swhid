@@ -5,7 +5,7 @@ go 1.27.3
 require (
 	github.com/andrew/swh-go v0.1.0
 	github.com/andrew/swhid-go v0.1.1
-	github.com/git-pkgs/archives v0.10.0
+	github.com/git-pkgs/archives v0.11.0
 	github.com/git-pkgs/purl v0.2.1
 	github.com/git-pkgs/registries v0.14.0
 	github.com/spf13/cobra v1.10.2
@@ -22,7 +22,7 @@ require (
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/facebookgo/clock v0.0.0-20150410010913-600d898af40a // indirect
 	github.com/git-pkgs/artifacts v0.2.1 // indirect
-	github.com/git-pkgs/magic v0.5.0 // indirect
+	github.com/git-pkgs/magic v0.6.0 // indirect
 	github.com/git-pkgs/pom v0.1.9 // indirect
 	github.com/git-pkgs/spdx v0.3.6 // indirect
 	github.com/git-pkgs/vers v0.7.2 // indirect
